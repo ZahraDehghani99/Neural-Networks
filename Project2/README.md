@@ -1,4 +1,4 @@
-# Project 3-1 : Traffic Sign Classification and 
+# Project 2-1 : Traffic Sign Classification and 
 
 The purpose of this project is to classify traffic signs into 43 distinct classes accurately. The project involves several steps to ensure the robustness and accuracy of the classification model.
 
@@ -42,7 +42,7 @@ The purpose of this project is to classify traffic signs into 43 distinct classe
 
 
 
-# Project 3-2 : House Price Estimation form Image and Text Features 
+# Project 2-2 : House Price Estimation form Image and Text Features 
 
 The purpose of this project is to predict the price of a house based on both its image and various numerical features such as street, city, number of bedrooms, number of bathrooms, and square footage (sqft). Additionally, the project aims to investigate the importance of the house image in the final prediction result.
 
