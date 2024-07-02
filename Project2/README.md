@@ -1,4 +1,4 @@
-# Project 2-1 : Traffic Sign Classification and 
+# Project 2-1 : Traffic Sign Classification 
 
 The purpose of this project is to classify traffic signs into 43 distinct classes accurately. The project involves several steps to ensure the robustness and accuracy of the classification model.
 
